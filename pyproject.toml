@@ -21,6 +21,7 @@ dependencies = [
     "pyyaml>=6.0",
     "pytest>=8.0", 
     "wandb==0.17.7",
-    "tqdm>=4.66"
+    "tqdm>=4.66",
+    "triton-windows"
     
 ]
